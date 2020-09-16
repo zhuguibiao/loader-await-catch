@@ -1,6 +1,6 @@
 {
   "name": "loader-await-catch",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "await catch loader",
   "main": "src/index.js",
   "repository": {
@@ -14,8 +14,7 @@
     "loader"
   ],
   "scripts": {
-    "test": "node run-loader.js",
-    "publish": "sh build/build.sh"
+    "test": "node run-loader.js"
   },
   "author": "zhuguibiao",
   "license": "ISC",
