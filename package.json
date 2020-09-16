@@ -1,6 +1,6 @@
 {
   "name": "loader-await-catch",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "await catch loader",
   "main": "src/index.js",
   "repository": {
