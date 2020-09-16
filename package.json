@@ -1,0 +1,31 @@
+{
+  "name": "loader-await-catch",
+  "version": "1.0.2",
+  "description": "await catch loader",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuguibiao/loader-await-catch.git"
+  },
+  "keywords": [
+    "await",
+    "catch",
+    "webpack",
+    "loader"
+  ],
+  "scripts": {
+    "test": "node run-loader.js",
+    "publish": "sh build/build.sh"
+  },
+  "author": "zhuguibiao",
+  "license": "ISC",
+  "dependencies": {
+    "loader-runner": "^4.0.0",
+    "loader-utils": "^2.0.0",
+    "recast": "^0.20.3"
+  },
+  "devDependencies": {
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  }
+}
