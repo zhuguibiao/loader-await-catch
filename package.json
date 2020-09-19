@@ -1,6 +1,6 @@
 {
   "name": "loader-await-catch",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "await catch loader",
   "main": "src/index.js",
   "repository": {
@@ -22,9 +22,5 @@
     "loader-runner": "^4.0.0",
     "loader-utils": "^2.0.0",
     "recast": "^0.20.3"
-  },
-  "devDependencies": {
-    "webpack": "^4.39.1",
-    "webpack-cli": "^3.3.6"
   }
 }
